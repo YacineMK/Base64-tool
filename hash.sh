@@ -1,4 +1,6 @@
-echo *enter your text :*
+
+
+echo "Enter your text:"
 read a
 sleep 1
-echo $a|base64
+echo $a | base64
