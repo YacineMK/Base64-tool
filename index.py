@@ -4,9 +4,9 @@ import time
 
 msg = """
 
-|1|-----> text to base64
+|1|------> text to base64
 
-|2|-----> base64 to text
+|2|------> base64 to text
 
 """
 
